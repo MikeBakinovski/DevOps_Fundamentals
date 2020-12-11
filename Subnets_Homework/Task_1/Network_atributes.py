@@ -103,8 +103,3 @@ print("{0:17}{1}".format("Broadcast IP:", br_ip_str))
 print("{0:17}{1}".format("First Host IP:", fst_ip_str))
 print("{0:17}{1}".format("Last Host IP:", last_ip_srt))
 print("{0:17}{1}".format("Number of Hosts:", noh_str))
-
-
-
-
-
