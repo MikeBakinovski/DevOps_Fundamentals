@@ -81,7 +81,6 @@ fst_ip_lst_oneline = decimal_to_binary(fst_ip_dec)
 fst_ip_bin_lst = split_by_oct(fst_ip_lst_oneline)
 
 # Last Host IP
-
 last_ip_dec = br_ip_dec - 1
 last_ip_lst_oneline = decimal_to_binary(last_ip_dec)
 last_ip_bin_lst = split_by_oct(last_ip_lst_oneline)
