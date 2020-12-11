@@ -5,4 +5,4 @@
 a. 10.13.112.17 /16 <br/>
 b. 172.18.188.35 /28 <br/>
 c. 7.202.146.23 /21 <br/>
-To see the answer click here -> [Answer 1]:<https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_1/README.md>
+#### To see the answer click here -> [Answer 1](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_1/README.m)
