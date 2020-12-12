@@ -12,3 +12,8 @@ c. 7.202.146.23 /21 <br/>
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_1/Picture_1.jpg)
 #### To see the answer click here -> [Answer 2](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_2/README.md "Go to Answer 2 .md")
 ---
+#### Task 3
+* **На какое количество сетей емкостью 80 хостов можно разделить сеть 172.16.10.0 /23**
+---
+#### Task 4
+* **Сформируйте добровольное ARP сообщение от хоста с IP 192.168.100.19 и MAC 01:00:5е:00:00:fb**
