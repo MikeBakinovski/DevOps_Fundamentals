@@ -9,7 +9,7 @@ c. 7.202.146.23 /21 <br/>
 ---
 #### Task 2
 * **Найти минимальный размер блока IP адресов, необходимый для построения сети, изображенной на рисунке 1:**
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_1/Picture_1.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_2/Picture_1.jpg)
 #### To see the answer click here -> [Answer 2](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_2/README.md "Go to Answer 2 .md")
 ---
 #### Task 3
