@@ -5,7 +5,7 @@ b. 172.18.188.35 /28 <br/>
 c. 7.202.146.23 /21 <br/>
 ---
 #### Answer 1
-To simplify such calculations in the future, I wrote a network calculator.
+To simplify such calculations in the future, I wrote a network calculator.<br/>
 Application ask to enter IP address with mask and return all required attributes.
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_1/Net_Atr.JPG)
 
