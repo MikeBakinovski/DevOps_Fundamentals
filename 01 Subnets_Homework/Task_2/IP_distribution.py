@@ -24,9 +24,6 @@ while True:
 res = int(input("Min host reserve %? "))
 res_coof = 1 + (res/100) 
 
-# nets_lst = [3, 20, 25, 60, 40, 48, 120, 17, 5]
-# res_coof = 1.1
-
 nets_lst_wres = []
 for h in nets_lst:
 	nets_lst_wres.append(math.ceil(h * res_coof))
