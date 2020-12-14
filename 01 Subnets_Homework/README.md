@@ -15,7 +15,7 @@ c. 7.202.146.23 /21 <br/>
 #### Task 3
 * **На какое количество сетей емкостью 80 хостов можно разделить сеть 172.16.10.0 /23**
 #### Answer 3:
-The network 172.168.10.0/23 can be devided to 4 following networks (126 hosts each):
+The network 172.168.10.0/23 can be divided to 4 following networks (126 hosts each):
 * 172.168.10.0./25
 * 172.168.10.128./25
 * 172.168.11.0./25
@@ -25,4 +25,4 @@ The network 172.168.10.0/23 can be devided to 4 following networks (126 hosts ea
 #### Task 4
 * **Сформируйте добровольное ARP сообщение от хоста с IP 192.168.100.19 и MAC 01:00:5е:00:00:fb**
 #### Answer 4:
-
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/GARP.jpg)
