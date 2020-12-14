@@ -10,7 +10,7 @@ In following example i am specify routers, hosts as in task and minimal host spa
 
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_2/IP_dist_0.JPG)
 
-In the example above we can find that in subnets number 3 and 6 very low spare onli 3% and 4%.</br>
+In the example above we can find that in subnets number 3 and 6 have very low spare. Only 3% and 4%. </br>
 In example below I am specify minimal   hosts spare 10%.</br>
 
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_2/IP_dist_10.JPG)
