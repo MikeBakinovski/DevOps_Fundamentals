@@ -1,6 +1,7 @@
+print()
 import math
 nets_lst = []
-routs= int(input("How many routers? "))
+routs= int(input("How many routers in your network? "))
 # routers = 3
 nets_lst.append(routs)
 nets = int(input("How many subnetworks? ")) 
@@ -58,6 +59,7 @@ reserv_lst = percent_l(nets_lst, prefix_lst)
 prefix_ov, overal_ov = prefix_and_hosts([overal_hosts])
 reserv_ov = percent_l([overal_hosts],prefix_ov)
 
+print()
 print("+{0:-^14}+{1:-^10}+{2:-^6}+{3:-^9}+{4:-^7}+".format("","","","",""))
 print("|{0:^14}|{1:^10}|{2:^6}|{3:^9}|{4:^7}|".format("Network name", "Occupied", "Mask", "Overall", "Spare"))
 print("+{0:-^14}+{1:-^10}+{2:-^6}+{3:-^9}+{4:-^7}+".format("","","","",""))
@@ -68,3 +70,4 @@ for i in range(1, len(nets_lst)):
 print("+{0:-^14}+{1:-^10}+{2:-^6}+{3:-^9}+{4:-^7}+".format("","","","",""))
 print("|{0:^14}|{1:>6}    |{2:^6}|{3:>6}   |{4:>5}  |".format("OVERALL", overal_hosts,"/" + str(prefix_ov[0]), overal_ov - 2,str(reserv_ov[0]) + "%"))
 print("+{0:-^14}+{1:-^10}+{2:-^6}+{3:-^9}+{4:-^7}+".format("","","","",""))
+print()
