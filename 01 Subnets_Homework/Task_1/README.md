@@ -1,5 +1,1 @@
-
-1. Определить атрибуты сети, к которой относятся IP адреса: 
-a. 10.13.112.17 /16 
-b. 172.18.188.35 /28 
-c. 7.202.146.23 /21
+#### The program code can be viewed at the following link -> Network_atributes
