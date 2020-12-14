@@ -14,3 +14,5 @@ In the example above we can find that in subnets number 3 and 6 have very low sp
 In example below I am specify minimal   hosts spare 10%.</br>
 
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_2/IP_dist_10.JPG)
+
+#### The program code can be viewed by the following link -> [Network_atributes.py](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets_Homework/Task_1/Network_atributes.py)
