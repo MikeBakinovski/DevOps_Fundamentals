@@ -58,7 +58,7 @@
 
 ---
 #### Task 3
-* **Используя DNS Manager, подключитесь к удаленному DNS серверу и поуправляйте DNS (создайте зоны, измените интервалы для DNS)**<br/>
+* **Используя DNS Manager, подключитесь к удаленному DNS серверу и поуправляйте DNS (создайте зоны, измените интервалы для DNS).**<br/>
 
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20DNS/Images/DNS_Ex3.jpg) 
 
