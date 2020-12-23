@@ -47,13 +47,23 @@
 ## Extra (необходим дополнительный DNS сервер)
 #### Task 1
 * **Создайте зону прямого просмотра, используя существующий .dns файл.**<br/>
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20DNS/Images/DNS_Ex1.jpg) 
+
 ---
 #### Task 2
 * **Настройте второй DNS сервер и настройте репликацию определенных зон только с этим DNS сервером.**<br/>
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20DNS/Images/DNS_Ex2.jpg) 
+
 ---
 #### Task 3
 * **Используя DNS Manager, подключитесь к удаленному DNS серверу и поуправляйте DNS (создайте зоны, измените интервалы для DNS)**<br/>
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20DNS/Images/DNS_Ex3.jpg) 
+
 ---
 #### Task 4
 * **Использую системные логи (Event Viewer) просмотрите и проанализируйте все события, связанные с DNS.**<br/>
 
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20DNS/Images/DNS_Ex4.jpg) 
