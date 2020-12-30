@@ -42,10 +42,28 @@
 
 ---
 
-## Extra. 
-1. Сделайте backup текущего DHCP сервера, удалите роль DHCP сервера и восстановите из ранее 
-сделанного бэкапа. 
-2. Измените стандартный путь хранения DHCP базы. 
-3. Настройте резервирование (Failover) DHCP зон между двумя DHCP серверами. 
-4. Использую системные логи (Event Viewer) просмотрете и проанализируйте все события, связанные 
-с DHCP. 
+## Extra.
+#### Task 1
+* **Сделайте backup текущего DHCP сервера, удалите роль DHCP сервера и восстановите из ранее сделанного бэкапа.**<br/>
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex1A.jpg)
+
+---
+#### Task 2
+* **Измените стандартный путь хранения DHCP базы.**<br/>
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex2.jpg)
+
+---  
+#### Task 3
+* **Настройте резервирование (Failover) DHCP зон между двумя DHCP серверами.**<br/>
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex3A.jpg)
+
+---  
+#### Task 4
+* **Использую системные логи (Event Viewer) просмотрете и проанализируйте все события, связанные с DHCP.**<br/>
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex4.jpg)
+
+---  
