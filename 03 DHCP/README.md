@@ -48,6 +48,20 @@
 
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex1A.jpg)
 
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex1B.jpg)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex1C.jpg)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex1C.jpg)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex1D.jpg)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex1E.jpg)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex1F.jpg)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex1G.jpg)
+
 ---
 #### Task 2
 * **Измените стандартный путь хранения DHCP базы.**<br/>
@@ -59,6 +73,8 @@
 * **Настройте резервирование (Failover) DHCP зон между двумя DHCP серверами.**<br/>
 
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex3A.jpg)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20DHCP/Images/DHCP_Ex3B.jpg)
 
 ---  
 #### Task 4
