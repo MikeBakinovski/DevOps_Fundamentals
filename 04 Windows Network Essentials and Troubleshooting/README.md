@@ -2,7 +2,9 @@
 #### Task 1
 * **Используя утилиту ping, отправьте 50 пакетов размером 1,4Кб и временем жизни пакета 15 до публичного DNS сервера Google (8.8.8.8). Попробуйте определить максимальный пакет, который может быть передан до удаленной стороны. Поченму именно пакет такой длины? Попробуйте объяснить. Изучите результаты команд.**<br/>
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT1A.JPG)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT1B.JPG)
 
 ---
 #### Task 2
