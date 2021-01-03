@@ -6,6 +6,10 @@
 
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT1B.JPG)
 
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT1C.JPG)
+
+#### 1464(bytes of Data) + 8(bytes of ICMP header) + 20(bytes of IPv4 header) = 1492 bytes (router MRU)
+
 ---
 #### Task 2
 * **Используя утилиты tracert, pathping или WinMTR выясните точный маршрут следования пакетов для IP адреса (!!! не DNS имени) сайта facebook.com. Проанализируйте результаты вывода и определите промежуточные хосты с максимальной задержкой передачи пакет.**<br/>
