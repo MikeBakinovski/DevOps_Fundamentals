@@ -14,7 +14,9 @@
 #### Task 2
 * **Используя утилиты tracert, pathping или WinMTR выясните точный маршрут следования пакетов для IP адреса (!!! не DNS имени) сайта facebook.com. Проанализируйте результаты вывода и определите промежуточные хосты с максимальной задержкой передачи пакет.**<br/>
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT2A.JPG)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT2B.JPG)
 
 ---
 #### Task 3
