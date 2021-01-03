@@ -22,7 +22,9 @@
 #### Task 3
 * **Используя утилиту ipconfig, сбросте и получите заново сетевые настройки на одном из рабочих сетевых интерфейсе. Анализируя результат вывода, определите: время окончания выдачи IP адреса, полученный DNS сервер, DHCP сервер, который выдал сетевые настройки.**<br/>
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT3A.JPG)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT3B.JPG)
 
 ---
 #### Task 4
