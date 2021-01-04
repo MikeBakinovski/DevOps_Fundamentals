@@ -60,7 +60,7 @@ DHCP server: 192.168.100.1<br/>
 #### Task 6
 * **Используя утилиту NSlookup, выберете custom DNS сервер, например, 8.8.8.8 и выясните все известные IP адреса сайта yandex.ru.**<br/>
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT6.JPG)
 
 ---
 #### Task 7
