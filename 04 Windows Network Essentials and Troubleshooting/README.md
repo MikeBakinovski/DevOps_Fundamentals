@@ -54,7 +54,7 @@ DHCP server: 192.168.100.1<br/>
 #### Task 5
 * **Используя улититу route выясните интерфейс, через который доступна подсеть 255.255.255.255/32 и попытайтесь объяснить почему.**<br/>
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT5.jpg)
 
 ---
 #### Task 6
