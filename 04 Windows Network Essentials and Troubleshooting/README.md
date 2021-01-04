@@ -8,6 +8,7 @@
 
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT1C.JPG)
 
+#### Answer 1:
 #### 1464(bytes of Data) + 8(bytes of ICMP header) + 20(bytes of IPv4 header) = 1492 bytes (router MRU)
 
 ---
@@ -17,14 +18,31 @@
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT2A.JPG)
 
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT2B.JPG)
+#### Answer 2:
+Hosts with maximum packet transfer delay:<br/>
+According tracert utility information:<br/>
+* 157.240.74.28<br/>
+* 157.240.49.171<br/>
+
+According pathping utility information:<br/>
+* 173.252.67.29<br/>
 
 ---
 #### Task 3
 * **Используя утилиту ipconfig, сбросте и получите заново сетевые настройки на одном из рабочих сетевых интерфейсе. Анализируя результат вывода, определите: время окончания выдачи IP адреса, полученный DNS сервер, DHCP сервер, который выдал сетевые настройки.**<br/>
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT3A.JPG)
+Network settings before upgrade:<br/>
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT3B.JPG)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT3A.JPG)<br/>
+
+Network settings after upgrade:<br/>
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT3B.JPG)<br/>
+#### Answer 3:
+  
+IP lease expires 01.06.2021 18:45:26<br/>
+DNS server: 192.168.100.1<br/>
+DHCP server: 192.168.100.1<br/>
 
 ---
 #### Task 4
