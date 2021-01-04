@@ -48,7 +48,7 @@ DHCP server: 192.168.100.1<br/>
 #### Task 4
 * **Используя утилиты arp выясните MAC-адрес вышего DefaultGateway.**<br/>
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT4.JPG)
 
 ---
 #### Task 5
