@@ -66,7 +66,7 @@ DHCP server: 192.168.100.1<br/>
 #### Task 7
 * **Используя команду netstat выясните все активные TCP соединения локального компьютера с внешними ресурсами, а также какие удаленные и локальные порты используются для этого. Выясните все разорванные TCP соединения.**<br/>
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT7.JPG)
 
 ---
 #### Task 8
