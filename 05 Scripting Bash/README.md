@@ -247,7 +247,8 @@ Use best practices during development.
 Your scripts should be readable.
 Use comments where is needed.
 Use console output and logging to show result of your work
-----
+
+---
 ## HOMEWORK RESULTS
 Create screenshots containing the following information:
 All screenshots should contain system datetime of your host OS.
