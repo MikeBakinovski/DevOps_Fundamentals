@@ -149,11 +149,12 @@ Hello bash in CentOS!
 ```
 #### Task description:
 
-You’re given a file with the content (see below). Using sed perform:
+You’re given a file with the content (see below). Using sed perform:<br/>
 
-remove all lines with word Linux
-replace first appearance word xterm to word Bash
-(extra) try to combine two tasks above in one-line command
+* remove all lines with word Linux<br/>
+* replace first appearance word xterm to word Bash<br/>
+* (extra) try to combine two tasks above in one-line command<br/>
+
 ```bash
 [devops@localhost ~]$ cat sed_task
 CentOS is a Linux distribution that provides a free, community-supported computing platform functionally compatible with its upstream source, Red Hat Enterprise Linux (RHEL).
