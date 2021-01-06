@@ -66,7 +66,7 @@ Examples:
 ```bash
 [devops@localhost ~]$ hello='Hello bash in Linux OS!' 
 [devops@localhost ~]$ echo ${hello} | grep bash
-Hello bash in Linux OS!
+Hello bash \in Linux OS\!
 [devops@localhost ~]$ ls -l
 -rw-rw-r--. 1 devops devops 0 Oct  1 09:44 file1
 -rw-rw-r--. 1 devops devops 0 Oct  1 09:44 file2
