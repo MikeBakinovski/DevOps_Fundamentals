@@ -1,20 +1,24 @@
-TASK1
-Write a shell script that prints “Hello World!” on the screen
-Requirements:
+## 05 Scripting Bash
+#### Task 1
+Write a shell script that prints "Hello World!" on the screen<br/>
+Requirements:<br/>
 
-Script file should start from #!/bin/bash notation
-Script file should have executable permission
-Scrip should perform echo or printf action with necessary message Hello World!
-Script file should exit successfully (exit code 0)
+* Script file should start from #!/bin/bash notation<br/>
+* Script file should have executable permission<br/>
+* Scrip should perform echo or printf action with necessary message Hello World!<br/>
+* Script file should exit successfully (exit code 0)<br/>
+
 Expected output:
-
+```bash
 [devops@localhost ~]$ ./hello.sh
  Hello World!
 [devops@localhost ~]$ echo $?
 0
- 
+```
+## Answer 1
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/)
 
-TASK2
+#### Task 2
 Please fix following scripts:
 2.1 Unknown File Problem
 [devops@localhost ~]$ cat ./hello-something-wrong-1.sh
@@ -41,7 +45,10 @@ echo Hello World!
 -rw-r--r-- 1 devops devops 32 Sep 30 08:38 ./hello-something-wrong-3.sh
 [devops@localhost ~]$ ./hello-something-wrong-3.sh
 bash: ./hello-something-wrong-3.sh: Permission denied
-TASK3 
+
+#### Task 3 
+
+
 Working with strings
 3.1 grep
 With grep you can search pattern in given string. See a few examples below and perform tasks.
