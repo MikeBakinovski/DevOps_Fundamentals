@@ -58,9 +58,8 @@ bash: ./hello-something-wrong-3.sh: Permission denied
 ---
 #### Task 3 
 
-
 Working with strings
-3.1 grep
+#### 3.1 grep
 With grep you can search pattern in given string. See a few examples below and perform tasks.
 
 Examples:
@@ -80,7 +79,7 @@ You’re given a file with the content (see below). Using grep check whether the
 [devops@localhost ~]$ cat lorem
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
 [devops@localhost ~]$ grep ???? # fill the command with right statement
-3.2      cut
+#### 3.2 cut
 cut allows you to select the needed information from line with custom formatting.
 
 Examples:
@@ -125,7 +124,7 @@ docker
 ldap
 apache
 caddy
-3.3      sed
+#### 3.3 sed
 With sed you can widely manipulate with strings. See a few examples below and perform tasks:
 
 Examples:
@@ -155,7 +154,7 @@ CentOS is a Linux distribution that provides a free, community-supported computi
 GNU xterm or simply Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.
 Linux is a family of open source Unix-like operating systems based on the Linux kernel.
 [devops@localhost ~]$ sed ???? # fill the command
-3.4      awk
+#### 3.4 awk
 With awk you can easily manipulate with strings. See a few examples below and perform tasks:
 
 Examples:
@@ -201,6 +200,8 @@ ldap
 apache
 caddy
 ...
+
+---
 TASK4
 Develop “User Info” Script
 Requirements:
