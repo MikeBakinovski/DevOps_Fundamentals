@@ -226,7 +226,7 @@ System Date / Time
 Script should use commands output
 Script file should exit successfully (exit code 0)
 Expected output:
-
+```bash
 [devops@localhost work]$ ./user-info.sh
 Home dir: /home/devops
 User Name: devops
@@ -237,6 +237,7 @@ Current directory: /home/devops/work
 System date/time: Tue Oct 1 06:13:27 EDT 2019
 [devops@localhost ~]$ echo $?
 0
+```
 ---
 ## HOME TASKS REQUIREMENTS
 You should use Bash for executing required tasks.
