@@ -15,37 +15,53 @@ Expected output:
 [devops@localhost ~]$ echo $?
 0
 ```
-## Answer 1
+#### Answer 1
+
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/Bash1.jpg)
 
+---
 #### Task 2
-Please fix following scripts:
-2.1 Unknown File Problem
+Please fix following scripts:<br/>
+#### 2.1 Unknown File Problem
+```bash
 [devops@localhost ~]$ cat ./hello-something-wrong-1.sh
- #!/sbin/bash
+#!/sbin/bash
 echo Hello World!
 [devops@localhost ~]$ ./hello-something-wrong-1.sh
 ls: cannot access /sbin/bash: No such file or directory
- 
+```
+#### Answer 2.1
 
-2.2      Syntax Problem
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/Bash2A.jpg)
+
+#### 2.2 Syntax Problem
+```bash
 [devops@localhost ~]$ cat ./hello-something-wrong-2.sh
- #!/bin/bash
+#!/bin/bash
 echo "Hello World!'
 [devops@localhost ~]$ ./hello-something-wrong-2.sh
 ./hello-something-wrong.sh: line 2: unexpected EOF while looking for matching `"'
 ./hello-something-wrong.sh: line 3: syntax error: unexpected end of file
- 
+```
+#### Answer 2.2
 
-2.3      Permission Problem
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/Bash2B.jpg)
+
+#### 2.3 Permission Problem
+```bash
 [devops@localhost ~]$ cat ./hello-something-wrong-3.sh
- #!/bin/bash
+#!/bin/bash
 echo Hello World!
 [devops@localhost ~]$ ls –la ./hello-something-wrong-3.sh
 -rw-r--r-- 1 devops devops 32 Sep 30 08:38 ./hello-something-wrong-3.sh
 [devops@localhost ~]$ ./hello-something-wrong-3.sh
 bash: ./hello-something-wrong-3.sh: Permission denied
+```
+#### Answer 2.3
 
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/Bash2C.jpg)
+
+---
 #### Task 3 
 
 
