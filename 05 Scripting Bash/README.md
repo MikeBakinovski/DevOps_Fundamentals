@@ -237,7 +237,8 @@ Current directory: /home/devops/work
 System date/time: Tue Oct 1 06:13:27 EDT 2019
 [devops@localhost ~]$ echo $?
 0
-HOME TASKS REQUIREMENTS
+---
+## HOME TASKS REQUIREMENTS
 You should use Bash for executing required tasks.
 Use clear formatting.
 No errors on execution.
@@ -245,7 +246,8 @@ Use best practices during development.
 Your scripts should be readable.
 Use comments where is needed.
 Use console output and logging to show result of your work
-HOMEWORK RESULTS
+----
+## HOMEWORK RESULTS
 Create screenshots containing the following information:
 All screenshots should contain system datetime of your host OS.
 Output of the console with execution result of your code.
