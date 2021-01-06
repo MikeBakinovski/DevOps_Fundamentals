@@ -30,9 +30,6 @@ echo Hello World!
 [devops@localhost ~]$ ./hello-something-wrong-1.sh
 ls: cannot access /sbin/bash: No such file or directory
 ```
-#### Answer 2.1
-
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/Bash2A.jpg)
 
 #### 2.2 Syntax Problem
 ```bash
@@ -43,9 +40,6 @@ echo "Hello World!'
 ./hello-something-wrong.sh: line 2: unexpected EOF while looking for matching `"'
 ./hello-something-wrong.sh: line 3: syntax error: unexpected end of file
 ```
-#### Answer 2.2
-
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/Bash2B.jpg)
 
 #### 2.3 Permission Problem
 ```bash
@@ -57,9 +51,9 @@ echo Hello World!
 [devops@localhost ~]$ ./hello-something-wrong-3.sh
 bash: ./hello-something-wrong-3.sh: Permission denied
 ```
-#### Answer 2.3
+#### Answer 2
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/Bash2C.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/BASH2.jpg)
 
 ---
 #### Task 3 
