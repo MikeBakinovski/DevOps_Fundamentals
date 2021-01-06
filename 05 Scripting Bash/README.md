@@ -16,7 +16,7 @@ Expected output:
 0
 ```
 ## Answer 1
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/Bash1.jpg)
 
 #### Task 2
 Please fix following scripts:
