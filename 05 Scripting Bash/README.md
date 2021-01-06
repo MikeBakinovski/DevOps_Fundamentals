@@ -74,7 +74,7 @@ Hello bash in Linux OS!
 [devops@localhost ~]$ ls -l | grep file2
 -rw-rw-r--. 1 devops devops 0 Oct  1 09:44 file2
 ```
-Task description:
+#### Task description:
 You’re given a file with the content (see below). Using grep check whether the file contains word dolore.
 ```bash
 [devops@localhost ~]$ cat lorem
@@ -107,7 +107,7 @@ mclaren
 Porsche
 Vaz
 ```
-Task description:
+#### Task description:
 
 Using cut print group names from /etc/group file.
 ```bash
@@ -147,7 +147,7 @@ Hello PowerShell in WindowsOS!
 [devops@localhost ~]$ cat sed_file
 Hello bash in CentOS!
 ```
-Task description:
+#### Task description:
 
 You’re given a file with the content (see below). Using sed perform:
 
@@ -189,7 +189,7 @@ file5
 [devops@localhost ~]$ ls -l | awk 'FNR == 4 {print $9}'
 file4
 ```
-Task description:
+#### Task description:
 
 Using awk print usernames from /etc/passwd file.
 ```bash
