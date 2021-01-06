@@ -63,7 +63,7 @@ Working with strings
 With grep you can search pattern in given string. See a few examples below and perform tasks.
 
 Examples:
-
+```bash
 [devops@localhost ~]$ hello='Hello bash in Linux OS!' 
 [devops@localhost ~]$ echo ${hello} | grep bash
 Hello bash in Linux OS!
@@ -73,17 +73,19 @@ Hello bash in Linux OS!
 -rw-rw-r--. 1 devops devops 0 Oct  1 09:44 file3
 [devops@localhost ~]$ ls -l | grep file2
 -rw-rw-r--. 1 devops devops 0 Oct  1 09:44 file2
+```
 Task description:
 You’re given a file with the content (see below). Using grep check whether the file contains word dolore.
-
+```bash
 [devops@localhost ~]$ cat lorem
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
 [devops@localhost ~]$ grep ???? # fill the command with right statement
+```
 #### 3.2 cut
 cut allows you to select the needed information from line with custom formatting.
 
 Examples:
-
+```bash
 [devops@localhost ~]$ cat parking_info
 1: mclaren-720s/silver
 2: Porsche-911/gray
@@ -104,10 +106,11 @@ Vaz-2109
 mclaren
 Porsche
 Vaz
+```
 Task description:
 
 Using cut print group names from /etc/group file.
-
+```bash
 [devops@localhost ~]$ cat /etc/group
 ...
 devops:x:1000:devops
@@ -124,11 +127,12 @@ docker
 ldap
 apache
 caddy
+```
 #### 3.3 sed
 With sed you can widely manipulate with strings. See a few examples below and perform tasks:
 
 Examples:
-
+```bash
 [devops@localhost ~]$ echo 'Hello bash in Linux OS!' > sed_file 
 [devops@localhost ~]$ cat sed_file
 Hello bash in Linux OS!
@@ -142,6 +146,7 @@ Hello PowerShell in WindowsOS!
 [devops@localhost ~]$ sed -i '/PowerShell/d' sed_file
 [devops@localhost ~]$ cat sed_file
 Hello bash in CentOS!
+```
 Task description:
 
 You’re given a file with the content (see below). Using sed perform:
@@ -149,16 +154,18 @@ You’re given a file with the content (see below). Using sed perform:
 remove all lines with word Linux
 replace first appearance word xterm to word Bash
 (extra) try to combine two tasks above in one-line command
+```bash
 [devops@localhost ~]$ cat sed_task
 CentOS is a Linux distribution that provides a free, community-supported computing platform functionally compatible with its upstream source, Red Hat Enterprise Linux (RHEL).
 GNU xterm or simply Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.
 Linux is a family of open source Unix-like operating systems based on the Linux kernel.
 [devops@localhost ~]$ sed ???? # fill the command
+```
 #### 3.4 awk
 With awk you can easily manipulate with strings. See a few examples below and perform tasks:
 
 Examples:
-
+```bash
 [devops@localhost ~]$ ls -l
 -rw-rw-r--. 1 devops devops 0 Oct  1 09:44 file1
 -rw-rw-r--. 1 devops devops 0 Oct  1 09:44 file2
@@ -181,10 +188,11 @@ file5
 -rw-rw-r--. 1 devops devops 0 Oct  1 09:44 file4
 [devops@localhost ~]$ ls -l | awk 'FNR == 4 {print $9}'
 file4
+```
 Task description:
 
 Using awk print usernames from /etc/passwd file.
-
+```bash
 [devops@localhost ~]$ cat /etc/passwd
 ...
 devops:x:1000:1000:devops:/home/devops:/bin/bash
@@ -200,9 +208,9 @@ ldap
 apache
 caddy
 ...
-
+```
 ---
-TASK4
+#### Task 4
 Develop “User Info” Script
 Requirements:
 
