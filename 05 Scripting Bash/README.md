@@ -17,7 +17,7 @@ Expected output:
 ```
 #### Answer 1
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/Bash1.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/BASH1.jpg)
 
 ---
 #### Task 2
