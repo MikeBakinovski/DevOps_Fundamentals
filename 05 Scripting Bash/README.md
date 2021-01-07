@@ -224,8 +224,9 @@ Script should print to stdout following information:<br/>
 * terminal type ($TERM)<br/>
 * Current Directory<br/>
 * System Date / Time<br/>
-* Script should use commands output<br/>
-* Script file should exit successfully (exit code 0)<br/> 
+
+Script should use commands output<br/>
+Script file should exit successfully (exit code 0)<br/> 
 
 Expected output:<br/>
 
