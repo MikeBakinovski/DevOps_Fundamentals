@@ -81,6 +81,10 @@ You’re given a file with the content (see below). Using grep check whether the
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
 [devops@localhost ~]$ grep ???? # fill the command with right statement
 ```
+#### Answer 3.1
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/BASH3A.jpg)
+
 #### 3.2 cut
 cut allows you to select the needed information from line with custom formatting.
 
@@ -128,6 +132,10 @@ ldap
 apache
 caddy
 ```
+#### Answer 3.2
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/BASH3B.jpg)
+
 #### 3.3 sed
 With sed you can widely manipulate with strings. See a few examples below and perform tasks:
 
@@ -162,6 +170,10 @@ GNU xterm or simply Bash is a Unix shell and command language written by Brian F
 Linux is a family of open source Unix-like operating systems based on the Linux kernel.
 [devops@localhost ~]$ sed ???? # fill the command
 ```
+#### Answer 3.3
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/BASH3C.jpg)
+
 #### 3.4 awk
 With awk you can easily manipulate with strings. See a few examples below and perform tasks:
 
@@ -210,6 +222,10 @@ apache
 caddy
 ...
 ```
+#### Answer 3.4
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/BASH3D.jpg)
+
 ---
 #### Task 4
 Develop “User Info” Script<br/>
@@ -242,6 +258,10 @@ System date/time: Tue Oct 1 06:13:27 EDT 2019
 [devops@localhost ~]$ echo $?
 0
 ```
+#### Answer 4
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripting%20Bash/Images/BASH4.jpg)
+
 ---
 ### HOME TASKS REQUIREMENTS
 You should use Bash for executing required tasks.<br/>
