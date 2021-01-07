@@ -218,7 +218,7 @@ Requirements:<br/>
 * Script file should start from #!/bin/bash notation<br/>
 * Script should print to stdout following information:<br/>
 * users’ home directory (~ or $HOME)<br/>
-** Username (whoami)<br/>
++ Username (whoami)<br/>
 * user id<br/>
 * groups information<br/>
 * terminal type ($TERM)<br/>
