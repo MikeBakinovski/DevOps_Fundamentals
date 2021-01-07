@@ -212,21 +212,21 @@ caddy
 ```
 ---
 #### Task 4
-Develop “User Info” Script
-Requirements:
+Develop “User Info” Script<br/>
+Requirements:<br/>
 
-Script file should start from #!/bin/bash notation
-Script should print to stdout following information:
-users’ home directory (~ or $HOME)
-Username (whoami)
-user id
-groups information
-terminal type ($TERM)
-Current Directory
-System Date / Time
-Script should use commands output
-Script file should exit successfully (exit code 0)
-Expected output:
+Script file should start from #!/bin/bash notation<br/>
+Script should print to stdout following information:<br/>
+users’ home directory (~ or $HOME)<br/>
+Username (whoami)<br/>
+user id<br/>
+groups information<br/>
+terminal type ($TERM)<br/>
+Current Directory<br/>
+System Date / Time<br/>
+Script should use commands output<br/>
+Script file should exit successfully (exit code 0)<br/>
+Expected output:<br/>
 ```bash
 [devops@localhost work]$ ./user-info.sh
 Home dir: /home/devops
