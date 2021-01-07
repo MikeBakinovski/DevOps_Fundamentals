@@ -225,8 +225,9 @@ Script should print to stdout following information:<br/>
 * Current Directory<br/>
 * System Date / Time<br/>
 * Script should use commands output<br/>
-* Script file should exit successfully (exit code 0)<br/>
-* Expected output:<br/>
+* Script file should exit successfully (exit code 0)<br/> 
+
+Expected output:<br/>
 
 ```bash
 [devops@localhost work]$ ./user-info.sh
