@@ -7,3 +7,4 @@
 ## Scripting: Bash (DevOps L1)
 #### [05 Scripts in Bash](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/README.md)</br>
 #### [06 Variables](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/06%20Variables/README.md)</br>
+#### [07 Conditions and Cases](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/07%20Conditions%20and%20Cases/README.md)</br>
