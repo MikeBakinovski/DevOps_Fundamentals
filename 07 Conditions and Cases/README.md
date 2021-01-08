@@ -2,6 +2,7 @@
 #### Task 1
 Develop a script that prints information about the current month.<br/> 
 The script should print the number of days of the current month.<br/>
+
 Expected output:<br/>
 ```bash
 [devops@localhost ~]$ cat month-days.sh
@@ -29,6 +30,7 @@ Develop a script called 03-which-daemon.sh that checks<br/>
 if the httpd and init daemons are running on your system.<br/>
 If an httpd is running, the script should print a message like, "This machine is running a web server."<br/> 
 Use ps to check on processes.<br/>
+ 
 Example of script execution:<br/>
 ```bash
 [devops@localhost ~]$ ps -ef | grep [h]ttpd
@@ -48,6 +50,7 @@ This machine is running a web server.
 Write a script that executes the command cat /etc/shadow.<br/> 
 If the command return a 0 exit status, report Command succeeded and exit with a 0 exit status.<br/>
 If the command returns a non-zero exit status, report Command failed and exit with a 1 exit status.<br/>
+
 Expected output:<br/>
 ```bash
 [devops@localhost ~]$ ./03-get-shadow.sh
@@ -62,6 +65,7 @@ Command succeeded
 ---
 #### Task 5  
 Modify following script:<br/>
+
 Requirements:<br/>
 
 * Script should print maximum number from generated list<br/>
