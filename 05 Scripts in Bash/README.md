@@ -280,7 +280,7 @@ System date/time: Tue Oct 1 06:13:27 EDT 2019
 
 2. Put all of your  *.sh files into zip archive following naming conventions:<br/>
 
- + for scripts - Homework1_BashScripting_TaskTaskNumber.ps1 (ex. Homework1_BashScripting_Task1.sh)<br/>
- + for archive - Name_Surname_Bash_Homework1_BashScripting.zip. (ex. Ivan_Ivanov_Bash_Homework1_BashScripting.zip)<br/>
+- for scripts - Homework1_BashScripting_TaskTaskNumber.ps1 (ex. Homework1_BashScripting_Task1.sh)<br/>
+- for archive - Name_Surname_Bash_Homework1_BashScripting.zip. (ex. Ivan_Ivanov_Bash_Homework1_BashScripting.zip)<br/>
 
 3. All home task artifacts should be attached to the appropriate chapter in learn.<br/>
