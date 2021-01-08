@@ -1,4 +1,6 @@
-1. Develop a script that prints information about the current month. The script should print the number of days of the current month.
+## 07 Conditions and Cases
+#### Task 1
+Develop a script that prints information about the current month. The script should print the number of days of the current month.
 Expected output:
 
 [devops@localhost ~]$ cat month-days.sh
@@ -8,8 +10,20 @@ leanYearMonths=(31 28 31 30 31 30 31 31 30 31 30 31)
 [devops@localhost ~]$
 [devops@localhost ~]$ ./month-days.sh
 31
+#### Answer 1
+
+![]()
+
+---
+#### Task 2
 2. Do the same, using a case statement and an alternative use of the date command.
-3. Develop a script called 03-which-daemon.sh that checks if the httpd and init daemons are running on your system. If an httpd is running, the script should print a message like, "This machine is running a web server." Use ps to check on processes
+#### Answer 2
+
+![]()
+
+---
+#### Task 3
+Develop a script called 03-which-daemon.sh that checks if the httpd and init daemons are running on your system. If an httpd is running, the script should print a message like, "This machine is running a web server." Use ps to check on processes
  Example of script execution:
 
 [devops@localhost ~]$ ps -ef | grep [h]ttpd
@@ -19,18 +33,26 @@ root     29214     1  0 Sep27 ?    00:00:35 /usr/sbin/httpd -DFOREGROUND
 [devops@localhost ~]$ ./03-which-daemon.sh
 This machine is running a web server.
 [devops@localhost ~]$
- 
+#### Answer 3
 
-4.       Write a script that executes the command cat /etc/shadow. If the command return a 0 exit status, report Command succeeded and exit with a 0 exit status. If the command returns a non-zero exit status, report Command failed and exit with a 1 exit status.
+![]()
+
+---
+#### Task 4 
+Write a script that executes the command cat /etc/shadow. If the command return a 0 exit status, report Command succeeded and exit with a 0 exit status. If the command returns a non-zero exit status, report Command failed and exit with a 1 exit status.
 Expected output:
 
 [devops@localhost ~]$ ./03-get-shadow.sh
 Command failed
 [devops@localhost ~]$ sudo ./03-get-shadow.sh
 Command succeeded
- 
+#### Answer 4
 
-5. Modify following script:
+![]()
+
+---
+#### Task 5  
+Modify following script:
 Requirements:
 
 Script should print maximum number from generated list
