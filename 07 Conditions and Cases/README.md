@@ -1,8 +1,9 @@
 ## 07 Conditions and Cases
 #### Task 1
-Develop a script that prints information about the current month. The script should print the number of days of the current month.
-Expected output:
-
+Develop a script that prints information about the current month.<br/> 
+The script should print the number of days of the current month.<br/>
+Expected output:<br/>
+```bash
 [devops@localhost ~]$ cat month-days.sh
 #!/bin/bash
 leanYearMonths=(31 28 31 30 31 30 31 31 30 31 30 31)
@@ -10,22 +11,26 @@ leanYearMonths=(31 28 31 30 31 30 31 31 30 31 30 31)
 [devops@localhost ~]$
 [devops@localhost ~]$ ./month-days.sh
 31
+```
 #### Answer 1
 
 ![]()
 
 ---
 #### Task 2
-2. Do the same, using a case statement and an alternative use of the date command.
+2. Do the same, using a case statement and an alternative use of the date command.<br/>
 #### Answer 2
 
 ![]()
 
 ---
 #### Task 3
-Develop a script called 03-which-daemon.sh that checks if the httpd and init daemons are running on your system. If an httpd is running, the script should print a message like, "This machine is running a web server." Use ps to check on processes
- Example of script execution:
-
+Develop a script called 03-which-daemon.sh that checks<br/>
+if the httpd and init daemons are running on your system.<br/>
+If an httpd is running, the script should print a message like, "This machine is running a web server."<br/> 
+Use ps to check on processes.<br/>
+Example of script execution:<br/>
+```bash
 [devops@localhost ~]$ ps -ef | grep [h]ttpd
 apache   27906 29214  0 Sep29 ?    00:00:00 /usr/sbin/httpd -DFOREGROUND
 root     29214     1  0 Sep27 ?    00:00:35 /usr/sbin/httpd -DFOREGROUND
@@ -33,33 +38,37 @@ root     29214     1  0 Sep27 ?    00:00:35 /usr/sbin/httpd -DFOREGROUND
 [devops@localhost ~]$ ./03-which-daemon.sh
 This machine is running a web server.
 [devops@localhost ~]$
+```
 #### Answer 3
 
 ![]()
 
 ---
 #### Task 4 
-Write a script that executes the command cat /etc/shadow. If the command return a 0 exit status, report Command succeeded and exit with a 0 exit status. If the command returns a non-zero exit status, report Command failed and exit with a 1 exit status.
-Expected output:
-
+Write a script that executes the command cat /etc/shadow.<br/> 
+If the command return a 0 exit status, report Command succeeded and exit with a 0 exit status.<br/>
+If the command returns a non-zero exit status, report Command failed and exit with a 1 exit status.<br/>
+Expected output:<br/>
+```bash
 [devops@localhost ~]$ ./03-get-shadow.sh
 Command failed
 [devops@localhost ~]$ sudo ./03-get-shadow.sh
 Command succeeded
+```
 #### Answer 4
 
 ![]()
 
 ---
 #### Task 5  
-Modify following script:
-Requirements:
+Modify following script:<br/>
+Requirements:<br/>
 
-Script should print maximum number from generated list
-Script should print minimal number from generated list
-Script should print sum of all generated numbers
-Expected output:
-
+* Script should print maximum number from generated list<br/>
+* Script should print minimal number from generated list<br/>
+* Script should print sum of all generated numbers<br/>
+Expected output:<br/>
+```bash
 [devops@localhost ~]$ ./elements.sh
 [1] => 65
 [2] => 77
@@ -89,7 +98,7 @@ do
 done
  \## write your code here ##
  [devops@localhost ~]$
- 
+``` 
 #### Answer 5
 
 ![]()
