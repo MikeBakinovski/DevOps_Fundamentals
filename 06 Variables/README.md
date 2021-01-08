@@ -80,8 +80,8 @@ wine wine wine wine wine wine
 ---
 ### HOMEWORK RESULTS
 1. Create screenshots containing the following information:<br/>
-  * All screenshots should contain system datetime of your host OS.<br/>
-  * Output of the console with execution result of your code.<br/>
+* All screenshots should contain system datetime of your host OS.<br/>
+* Output of the console with execution result of your code.<br/>
 
 2. Put all of your  *.sh files into zip archive following naming conventions:<br/>
 
