@@ -6,3 +6,4 @@
 #### [04 Windows Network Essentials and Troubleshooting](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/README.md)</br>
 ## Scripting: Bash (DevOps L1)
 #### [05 Scripts in Bash](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/README.md)</br>
+#### [06 Variables](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/065%20Variables/README.md)</br>
