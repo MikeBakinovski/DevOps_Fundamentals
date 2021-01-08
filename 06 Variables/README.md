@@ -91,7 +91,7 @@ wine wine wine wine wine wine
 ```
 #### Answer 4
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/06%20Variables/Images/VAR4.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/06%20Variables/Images/VAR4.ipg)
 
 ---
 ### HOME TASKS REQUIREMENTS
