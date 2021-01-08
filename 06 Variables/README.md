@@ -66,20 +66,26 @@ wine wine wine wine wine wine
 /home/devops/test_folder
 [devops@localhost ~]$ echo ${mypath?????} #fill questions mark right statement
 /home/devops
-HOME TASKS REQUIREMENTS
-You should use Bash for executing required tasks.
-Use clear formatting.
-No errors on execution.
-Use best practices during development.
-Your scripts should be readable.
-Use comments where is needed.
-Use console output and logging to show result of your work
-HOMEWORK RESULTS
-Create screenshots containing the following information:
-All screenshots should contain system datetime of your host OS.
-Output of the console with execution result of your code.
-Put all of your  *.sh files into zip archive following naming conventions:
 
-for scripts - Homework1_BashScripting_TaskTaskNumber.ps1 (ex. Homework1_BashScripting_Task1.sh)
-for archive - Name_Surname_Bash_Homework1_BashScripting.zip. (ex. Ivan_Ivanov_Bash_Homework1_BashScripting.zip)
-All home task artifacts should be attached to the appropriate chapter in learn.
+---
+### HOME TASKS REQUIREMENTS
+1. You should use Bash for executing required tasks.<br/>
+2. Use clear formatting.<br/>
+3. No errors on execution.<br/>
+4. Use best practices during development.<br/>
+5. Your scripts should be readable.<br/>
+6. Use comments where is needed.<br/>
+7. Use console output and logging to show result of your work.<br/>
+
+---
+### HOMEWORK RESULTS
+1. Create screenshots containing the following information:<br/>
+* All screenshots should contain system datetime of your host OS.<br/>
+* Output of the console with execution result of your code.<br/>
+
+2. Put all of your  *.sh files into zip archive following naming conventions:<br/>
+
+   for scripts - Homework1_BashScripting_TaskTaskNumber.ps1 (ex. Homework1_BashScripting_Task1.sh)<br/>
+   for archive - Name_Surname_Bash_Homework1_BashScripting.zip. (ex. Ivan_Ivanov_Bash_Homework1_BashScripting.zip)<br/>
+
+3. All home task artifacts should be attached to the appropriate chapter in learn.<br/>
