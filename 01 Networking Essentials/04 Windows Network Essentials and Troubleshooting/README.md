@@ -2,11 +2,11 @@
 #### Task 1
 * **Используя утилиту ping, отправьте 50 пакетов размером 1,4Кб и временем жизни пакета 15 до публичного DNS сервера Google (8.8.8.8). Попробуйте определить максимальный пакет, который может быть передан до удаленной стороны. Поченму именно пакет такой длины? Попробуйте объяснить. Изучите результаты команд.**<br/>
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT1A.JPG)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT1A.JPG)
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT1B.JPG)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT1B.JPG)
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT1C.JPG)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT1C.JPG)
 
 #### Answer 1:
 #### 1464(bytes of Data) + 8(bytes of ICMP header) + 20(bytes of IPv4 header) = 1492 bytes (router MRU)
@@ -15,9 +15,9 @@
 #### Task 2
 * **Используя утилиты tracert, pathping или WinMTR выясните точный маршрут следования пакетов для IP адреса (!!! не DNS имени) сайта facebook.com. Проанализируйте результаты вывода и определите промежуточные хосты с максимальной задержкой передачи пакет.**<br/>
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT2A.JPG)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT2A.JPG)
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT2B.JPG)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT2B.JPG)
 #### Answer 2:
 Hosts with maximum packet transfer delay:<br/>
 According tracert utility information:<br/>
@@ -33,11 +33,11 @@ According pathping utility information:<br/>
 
 Network settings before upgrade:<br/>
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT3A.JPG)<br/>
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT3A.JPG)<br/>
 
 Network settings after upgrade:<br/>
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT3B.JPG)<br/>
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT3B.JPG)<br/>
 #### Answer 3:
   
 IP lease expires 01.06.2021 18:45:26<br/>
@@ -48,25 +48,25 @@ DHCP server: 192.168.100.1<br/>
 #### Task 4
 * **Используя утилиты arp выясните MAC-адрес вышего DefaultGateway.**<br/>
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT4.JPG)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT4.JPG)
 
 ---
 #### Task 5
 * **Используя улититу route выясните интерфейс, через который доступна подсеть 255.255.255.255/32 и попытайтесь объяснить почему.**<br/>
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT5.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT5.jpg)
 
 ---
 #### Task 6
 * **Используя утилиту NSlookup, выберете custom DNS сервер, например, 8.8.8.8 и выясните все известные IP адреса сайта yandex.ru.**<br/>
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT6.JPG)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT6.JPG)
 
 ---
 #### Task 7
 * **Используя команду netstat выясните все активные TCP соединения локального компьютера с внешними ресурсами, а также какие удаленные и локальные порты используются для этого. Выясните все разорванные TCP соединения.**<br/>
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT7.JPG)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT7.JPG)
 
 ---
 #### Task 8
