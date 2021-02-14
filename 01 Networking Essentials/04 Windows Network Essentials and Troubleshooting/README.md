@@ -72,7 +72,7 @@ DHCP server: 192.168.100.1<br/>
 #### Task 8
 * **Используя утилиту tracert или pathping выясните маршрут следования до различных сайтов. Проанализируйте результаты и попытайтесь найти общий маршрут этих ресурсов.**<br/>
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT8.JPG)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT8.jpg)
 
 ---
 #### Task 9
