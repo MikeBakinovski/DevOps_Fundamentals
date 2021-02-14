@@ -81,7 +81,7 @@ Same part of the route for all sites:</br>
 #### Task 9
 * **Использую утилиту arp выясните все MAC-адреса хостов в вашей локальной подсети.**<br/>
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT9.JPG)
 
 ---
 #### Task 10
