@@ -10,4 +10,4 @@ Application ask to enter IP address with mask and return all required attributes
 
 ![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/01%20Subnets/Task_1/Net_Atr.JPG?raw=true)
 
-#### The program code can be viewed by the following link -> [Network_atributes.py](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets/Task_1/Network_atributes.py)
+#### The program code can be viewed by the following link -> [Network_atributes.py](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/01%20Subnets/Task_1/Network_atributes.py)
