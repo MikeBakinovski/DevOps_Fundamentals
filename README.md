@@ -7,9 +7,10 @@
 ## Scripting: Bash (DevOps L1)
 #### [01 Scripts in Bash](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/README.md)</br>
 #### [02 Variables](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/06%20Variables/README.md)</br>
-#### [03 Loops](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/07%20Conditions%20and%20Cases/README.md)</br>
-#### [04 Functions](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/07%20Conditions%20and%20Cases/README.md)</br>
-#### [05 Final Homework](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/07%20Conditions%20and%20Cases/README.md)</br>
+#### [03 Conditions and Cases](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/07%20Conditions%20and%20Cases/README.md)</br>
+#### [04 Loops](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/07%20Conditions%20and%20Cases/README.md)</br>
+#### [05 Functions](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/07%20Conditions%20and%20Cases/README.md)</br>
+#### [06 Final Homework](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/07%20Conditions%20and%20Cases/README.md)</br>
 
 ## Scripting: PowerShell Essentials
 #### [01 Powershell Console](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/README.md)</br>
@@ -28,5 +29,3 @@
 #### [14 Integrated Scripting Environment](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/README.md)</br>
 #### [15 Fundamentals of PowerShell Functions](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/README.md)</br>
 #### [16 Advanced Functions and Scripts](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/README.md)</br>
-
-
