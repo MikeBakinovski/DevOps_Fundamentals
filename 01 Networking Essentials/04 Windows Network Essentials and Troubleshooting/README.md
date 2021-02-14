@@ -87,6 +87,6 @@ Same part of the route for all sites:</br>
 #### Task 10
 * **Используя утилиту WinMTR выясните промежуточный узел с максимальной задержкой при передаче трафика, созраните результат в отдельный файл. Используйте утилиты tracert и pathping для этой же цели. Сравните полученные результаты от утилит.**<br/>
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/04%20Windows%20Network%20Essentials%20and%20Troubleshooting/Images/WNEaT10.JPG)
 
 ---
