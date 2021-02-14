@@ -25,4 +25,4 @@ The network 172.168.10.0/23 can be divided to 4 following networks (126 hosts ea
 #### Task 4
 * **Сформируйте добровольное ARP сообщение от хоста с IP 192.168.100.19 и MAC 01:00:5е:00:00:fb**
 #### Answer 4:
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Subnets/GARP.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/01%20Networking%20Essentials/01%20Subnets/GARP.jpg)
