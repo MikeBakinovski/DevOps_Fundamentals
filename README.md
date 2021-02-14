@@ -7,7 +7,7 @@
 ## Scripting: Bash (DevOps L1)
 #### [01 Scripts in Bash](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/01%20Scripts%20in%20Bash/README.md)</br>
 #### [02 Variables](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/02%20Variables/README.md)</br>
-#### [03 Conditions and Cases](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/07%20Conditions%20and%20Cases/README.md)</br>
+#### [03 Conditions and Cases](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/03%20Conditions%20and%20Cases/README.md)</br>
 #### [04 Loops](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/07%20Conditions%20and%20Cases/README.md)</br>
 #### [05 Functions](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/07%20Conditions%20and%20Cases/README.md)</br>
 #### [06 Final Homework](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/07%20Conditions%20and%20Cases/README.md)</br>
