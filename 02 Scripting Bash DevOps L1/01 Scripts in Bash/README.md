@@ -17,7 +17,7 @@ Expected output:
 ```
 #### Answer 1
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/Images/BASH1.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/01%20Scripts%20in%20Bash/Images/BASH1.jpg)
 
 ---
 #### Task 2
@@ -53,7 +53,7 @@ bash: ./hello-something-wrong-3.sh: Permission denied
 ```
 #### Answer 2
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/Images/BASH2.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/01%20Scripts%20in%20Bash/Images/BASH2.jpg)
 
 ---
 #### Task 3 
@@ -83,7 +83,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ```
 #### Answer 3.1
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/Images/BASH3A.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/01%20Scripts%20in%20Bash/Images/BASH3A.jpg)
 
 #### 3.2 cut
 cut allows you to select the needed information from line with custom formatting.
@@ -134,7 +134,7 @@ caddy
 ```
 #### Answer 3.2
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/Images/BASH3B.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/01%20Scripts%20in%20Bash/Images/BASH3B.jpg)
 
 #### 3.3 sed
 With sed you can widely manipulate with strings. See a few examples below and perform tasks:
@@ -172,7 +172,7 @@ Linux is a family of open source Unix-like operating systems based on the Linux 
 ```
 #### Answer 3.3
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/Images/BASH3C.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/01%20Scripts%20in%20Bash/Images/BASH3C.jpg)
 
 #### 3.4 awk
 With awk you can easily manipulate with strings. See a few examples below and perform tasks:
@@ -224,7 +224,7 @@ caddy
 ```
 #### Answer 3.4
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/Images/BASH3D.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/01%20Scripts%20in%20Bash/Images/BASH3D.jpg)
 
 ---
 #### Task 4
@@ -260,7 +260,7 @@ System date/time: Tue Oct 1 06:13:27 EDT 2019
 ```
 #### Answer 4
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/05%20Scripts%20in%20Bash/Images/BASH4.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/01%20Scripts%20in%20Bash/Images/BASH4.jpg)
 
 ---
 ### HOME TASKS REQUIREMENTS
