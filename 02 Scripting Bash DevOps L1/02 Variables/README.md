@@ -14,7 +14,7 @@ Expected output:<br/>
 ``` 
 #### Answer 1
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/06%20Variables/Images/VAR1.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/02%20Variables/Images/VAR1.jpg)
 
 ---
 #### Task 2
@@ -34,7 +34,7 @@ Hello, broken script!
 ```
 #### Answer 2
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/06%20Variables/Images/VAR2.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/02%20Variables/Images/VAR2.jpg)
 
 ---
 #### Task 3
@@ -58,7 +58,7 @@ MY_VAR=default
 ``` 
 #### Answer 3
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/06%20Variables/Images/VAR3.jpg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/02%20Variables/Images/VAR3.jpg)
 
 ---
 #### Task 4
@@ -91,7 +91,7 @@ wine wine wine wine wine wine
 ```
 #### Answer 4
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/06%20Variables/Images/VAR4.ipg)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/02%20Variables/Images/VAR4.ipg)
 
 ---
 ### HOME TASKS REQUIREMENTS
