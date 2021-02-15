@@ -1,4 +1,4 @@
-## 07 Conditions and Cases
+## 03 Conditions and Cases
 #### Task 1
 Develop a script that prints information about the current month.<br/> 
 The script should print the number of days of the current month.<br/>
