@@ -13,7 +13,7 @@ Expected output:<br/>
 
 ---
 #### Task 2
-2. Develop simple script which will be print numbers in range from 20 to -20 with step=4. (Hint: try to use echo {80..100}; echo {80..100..3}).<br/>
+Develop simple script which will be print numbers in range from 20 to -20 with step=4. (Hint: try to use echo {80..100}; echo {80..100..3}).<br/>
 
 Expected output:<br/>
 ```bash
@@ -72,8 +72,6 @@ stop
 #### Task 5  
 Let’s develop a simple console game! You’re given a script template (see below). Append script which will be:<br/>
 
-Requirements:<br/>
-
 * At the beginning of the game script randomly sets Magic number<br/>
 * User is running script and trying to guess magic number: if entered number less than magic number, script outputs less; if entered number greater than magic number, script outputs greater; if user have guessed the magic number, script outputs You win!<br/>
 
@@ -92,6 +90,45 @@ greater
 You win!
 ``` 
 #### Answer 5
+
+![]()
+
+---
+#### Task 6  
+You’re given the file with varied paths. Depend on existing “/” at the end of each line create regular file (path without ‘/’) or directory (path with / at the end) with given path.<br/>
+
+Expected output:<br/>
+```bash
+[devops@localhost ~]$ cat paths
+/tmp/file1
+/tmp/file2
+/tmp/dir1/
+/tmp/dir3/
+/tmp/dir3/file3
+[devops@localhost ~]$ cat paths | ./04-create-items.sh
+[devops@localhost ~]$ ls –l /tmp
+/tmp/dir1/
+/tmp/dir3/
+/tmp/file1
+/tmp/file2
+...
+``` 
+#### Answer 6
+
+![]()
+
+---
+#### Task 7 
+Using for loop output list of files in current directory with its owner.<br/>
+
+Expected output:<br/>
+```bash
+[devops@localhost ~]$ ./04-get-files.sh
+ Filename: file1, Owner: devops
+ Filename: file2, Owner: devops
+ ...
+``` 
+#### Answer 6
 
 ![]()
 
