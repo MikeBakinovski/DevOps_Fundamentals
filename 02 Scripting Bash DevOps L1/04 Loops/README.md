@@ -1,17 +1,11 @@
 ## 04 Loops
 #### Task 1
-Develop a script that prints information about the current month.<br/> 
-The script should print the number of days of the current month.<br/>
+Develop simple script which will be print numbers in range from 1 to 10. (Hint: try to use seq 10 20 with different options).<br/> 
 
 Expected output:<br/>
 ```bash
-[devops@localhost ~]$ cat month-days.sh
-#!/bin/bash
-leanYearMonths=(31 28 31 30 31 30 31 31 30 31 30 31)
-## write your code here ##
-[devops@localhost ~]$
-[devops@localhost ~]$ ./month-days.sh
-31
+[devops@localhost ~]$ ./seq10.sh
+ 1 2 3 4 5 6 7 8 9 10
 ```
 #### Answer 1
 
@@ -19,27 +13,37 @@ leanYearMonths=(31 28 31 30 31 30 31 31 30 31 30 31)
 
 ---
 #### Task 2
-2. Do the same, using a case statement and an alternative use of the date command.<br/>
+2. Develop simple script which will be print numbers in range from 20 to -20 with step=4. (Hint: try to use echo {80..100}; echo {80..100..3}).<br/>
+
+Expected output:<br/>
+```bash
+[devops@localhost ~]$ ./double20.sh
+ 20 16 12 8 4 0 -4 -8 -12 -16 -20
+```
 #### Answer 2
 
 ![]()
 
 ---
 #### Task 3
-Develop a script called 03-which-daemon.sh that checks<br/>
-if the httpd and init daemons are running on your system.<br/>
-If an httpd is running, the script should print a message like, "This machine is running a web server."<br/> 
-Use ps to check on processes.<br/>
- 
-Example of script execution:<br/>
+You are given an array of numbers. Using only one loop perform the following tasks:<br/>
+* Print only even numbers
+* Don't print numbers in range [30, 60]
+* Stop loop executing when number will be greater than 85
+
+Expected output:<br/>
 ```bash
-[devops@localhost ~]$ ps -ef | grep [h]ttpd
-apache   27906 29214  0 Sep29 ?    00:00:00 /usr/sbin/httpd -DFOREGROUND
-root     29214     1  0 Sep27 ?    00:00:35 /usr/sbin/httpd -DFOREGROUND
-[devops@localhost ~]$
-[devops@localhost ~]$ ./03-which-daemon.sh
-This machine is running a web server.
-[devops@localhost ~]$
+[devops@localhost ~]$ cat 04-numbers.sh
+#!/bin/bash
+array=$(seq 1 100)
+for item in ${array}; do
+## write your code here ##
+done
+[devops@localhost ~]$ ./04-numbers.sh
+2
+4
+6
+...
 ```
 #### Answer 3
 
