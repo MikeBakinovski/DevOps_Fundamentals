@@ -15,14 +15,14 @@ leanYearMonths=(31 28 31 30 31 30 31 31 30 31 30 31)
 ```
 #### Answer 1
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/03%20Conditions%20and%20Cases/Images/CaCT1.JPG)
 
 ---
 #### Task 2
 2. Do the same, using a case statement and an alternative use of the date command.<br/>
 #### Answer 2
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/03%20Conditions%20and%20Cases/Images/CaCT2.JPG)
 
 ---
 #### Task 3
@@ -43,7 +43,7 @@ This machine is running a web server.
 ```
 #### Answer 3
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/03%20Conditions%20and%20Cases/Images/CaCT3.JPG)
 
 ---
 #### Task 4 
@@ -60,7 +60,7 @@ Command succeeded
 ```
 #### Answer 4
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/03%20Conditions%20and%20Cases/Images/CaCT4.JPG)
 
 ---
 #### Task 5  
@@ -105,7 +105,7 @@ done
 ``` 
 #### Answer 5
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/03%20Conditions%20and%20Cases/Images/CaCT5.JPG)
 
 ---
 ### HOME TASKS REQUIREMENTS
