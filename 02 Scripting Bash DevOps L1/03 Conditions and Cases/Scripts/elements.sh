@@ -1,3 +1,4 @@
+#!/bin/bash
 function rand() {
     echo $(($RANDOM % ${1}))
 }
@@ -13,7 +14,8 @@ do
     if [ $value -gt $max ]
     then
         max=$value
-    elif [ $value -lt $min ]
+    fi
+    if [ $value -lt $min ]
     then
         min=$value
     fi
