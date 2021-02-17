@@ -51,16 +51,18 @@ done
 
 ---
 #### Task 4 
-Write a script that executes the command cat /etc/shadow.<br/> 
-If the command return a 0 exit status, report Command succeeded and exit with a 0 exit status.<br/>
-If the command returns a non-zero exit status, report Command failed and exit with a 1 exit status.<br/>
+Develop simple script which will be execute infinite while loop with reading input in variable (etc. var) (read command)<br/> 
+and outputting message Hello ${var}. The has been ended when we enter word stop.<br/>
 
 Expected output:<br/>
 ```bash
-[devops@localhost ~]$ ./03-get-shadow.sh
-Command failed
-[devops@localhost ~]$ sudo ./03-get-shadow.sh
-Command succeeded
+[devops@localhost ~]$ ./04-infinite.sh
+Andrey
+Hello, Andrey
+Aliens
+Hello, Aliens
+stop
+[devops@localhost ~]$
 ```
 #### Answer 4
 
@@ -68,44 +70,26 @@ Command succeeded
 
 ---
 #### Task 5  
-Modify following script:<br/>
+Let’s develop a simple console game! You’re given a script template (see below). Append script which will be:<br/>
 
 Requirements:<br/>
 
-* Script should print maximum number from generated list<br/>
-* Script should print minimal number from generated list<br/>
-* Script should print sum of all generated numbers<br/>
+* At the beginning of the game script randomly sets Magic number<br/>
+* User is running script and trying to guess magic number: if entered number less than magic number, script outputs less; if entered number greater than magic number, script outputs greater; if user have guessed the magic number, script outputs You win!<br/>
+
 Expected output:<br/>
 ```bash
-[devops@localhost ~]$ ./elements.sh
-[1] => 65
-[2] => 77
-[3] => 57
-[4] => 89
-[5] => 30
-[6] => 27
-[7] => 10
-[8] => 16
-[9] => 95
-[10] => 73
-min=10
-max=95
-sum=539
- 
-[devops@localhost ~]$ cat elements.sh
+[devops@localhost ~]$ cat 03-magic-number.sh
 #!/bin/bash
- 
-function rand() {
-    echo $(($RANDOM % ${1}))
-}
- 
-for item in `seq 1 10`
-do
-    value="$(rand 100)"
-    echo "[$item] => ${value}"
-done
- \## write your code here ##
- [devops@localhost ~]$
+magicNumber=$(( $RANDOM % 100 ))
+## write your code here ##
+[devops@localhost ~]$ ./03-magic-number.sh
+10
+less
+20
+greater
+15
+You win!
 ``` 
 #### Answer 5
 
