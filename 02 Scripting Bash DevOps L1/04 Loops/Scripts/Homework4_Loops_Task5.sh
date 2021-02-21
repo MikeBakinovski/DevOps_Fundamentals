@@ -1,7 +1,6 @@
 #!/bin/bash
 clear
 magicNumber=$(( $RANDOM % 100 ))
-echo $magicNumber
 while
 read -r -p "Gues number from in range 0-100? " Input
 
