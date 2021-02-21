@@ -9,7 +9,7 @@ Expected output:<br/>
 ```
 #### Answer 1
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT1.JPG)
 
 ---
 #### Task 2
@@ -22,7 +22,7 @@ Expected output:<br/>
 ```
 #### Answer 2
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT2.JPG)
 
 ---
 #### Task 3
@@ -47,7 +47,7 @@ done
 ```
 #### Answer 3
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT3.JPG)
 
 ---
 #### Task 4 
@@ -66,7 +66,7 @@ stop
 ```
 #### Answer 4
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT4.JPG)
 
 ---
 #### Task 5  
