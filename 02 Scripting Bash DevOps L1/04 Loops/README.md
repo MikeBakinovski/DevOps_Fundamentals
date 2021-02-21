@@ -91,7 +91,7 @@ You win!
 ``` 
 #### Answer 5
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT5.JPG)
 
 ---
 #### Task 6  
@@ -115,7 +115,7 @@ Expected output:<br/>
 ``` 
 #### Answer 6
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT6.JPG)
 
 ---
 #### Task 7 
@@ -130,7 +130,7 @@ Expected output:<br/>
 ``` 
 #### Answer 7
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT7.JPG)
 
 ---
 ### HOME TASKS REQUIREMENTS
