@@ -17,6 +17,7 @@ Expected output:<br/>
 ---
 #### Task 2
 If you are 18 or over, you may go to the party. If you aren't but you have a letter from your parents you may go but must be back before midnight. Otherwise you cannot go.<br/>
+
 Requirements:</br>
 * Script should expect 2 input parameters: the first - age, the second - yes/no (depends on whether you have letter from parents or don't)
 * Script should generate appropriate output.
@@ -33,6 +34,7 @@ You may go but must be back before midnight.
 ---
 #### Task 3
 Write a Bash shell script which prints out information about file or directory, provided in argument.<br/>
+
 Requirements:<br/>
 * Script should take the name of a file or directory as an argument and reports if the file is a directory, regular file or other
 * Script should print out read, write and execute permission applied on the file or directory
@@ -71,7 +73,7 @@ Prod: 7200
 ```
 #### Answer 4
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT4.JPG)
+![]()
 
 ---
 #### Task 5  
@@ -120,7 +122,7 @@ script.sh
 ``` 
 #### Answer 7
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT7.JPG)
+![]()
 
 ---
 ### HOME TASKS REQUIREMENTS
