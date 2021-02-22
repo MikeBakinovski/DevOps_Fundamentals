@@ -1,67 +1,72 @@
 ## 05 Functions
 #### Task 1
-Develop simple script which will be print numbers in range from 1 to 10. (Hint: try to use seq 10 20 with different options).<br/> 
+Write a  Bash shell script program that takes a login name as an argument and outputs the home directory of the user.<br/> 
 
 Expected output:<br/>
 ```bash
-[devops@localhost ~]$ ./seq10.sh
- 1 2 3 4 5 6 7 8 9 10
+[devops@localhost ~]$ ./06-get-home.sh devops
+/home/devops
+[devops@localhost ~]$ bash 06-get-home.sh root
+/root
+[devops@localhost ~]$
 ```
 #### Answer 1
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT1.JPG)
+![]()
 
 ---
 #### Task 2
-Develop simple script which will be print numbers in range from 20 to -20 with step=4. (Hint: try to use echo {80..100}; echo {80..100..3}).<br/>
+If you are 18 or over, you may go to the party. If you aren't but you have a letter from your parents you may go but must be back before midnight. Otherwise you cannot go.<br/>
+Requirements:</br>
+* Script should expect 2 input parameters: the first - age, the second - yes/no (depends on whether you have letter from parents or don't)
+* Script should generate appropriate output.
 
 Expected output:<br/>
 ```bash
-[devops@localhost ~]$ ./double20.sh
- 20 16 12 8 4 0 -4 -8 -12 -16 -20
+[devops@localhost ~]$ ./03-party-approve.sh 17 yes
+You may go but must be back before midnight.
 ```
 #### Answer 2
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT2.JPG)
+![]()
 
 ---
 #### Task 3
-You are given an array of numbers. Using only one loop perform the following tasks:<br/>
-* Print only even numbers
-* Don't print numbers in range [30, 60]
-* Stop loop executing when number will be greater than 85
+Write a Bash shell script which prints out information about file or directory, provided in argument.<br/>
+Requirements:<br/>
+* Script should take the name of a file or directory as an argument and reports if the file is a directory, regular file or other
+* Script should print out read, write and execute permission applied on the file or directory
+* Use a sequence of if statements on the file name to determine the information
+* Hint: try to use stat filename command
 
 Expected output:<br/>
 ```bash
-[devops@localhost ~]$ cat 04-numbers.sh
-#!/bin/bash
-array=$(seq 1 100)
-for item in ${array}; do
-## write your code here ##
-done
-[devops@localhost ~]$ ./04-numbers.sh
-2
-4
-6
-...
+[devops@localhost ~]$ ./06-get-info.sh /home/devops
+File: ‘/home/devops/adstaticwebsite’
+Type: directory  
+Permissions: (0775/drwxrwxr-x)
+-------
+File: ‘/home/devops/adstaticwebsite2’
+Type: directory  
+Permissions: (0775/drwxrwxr-x)
+-------
+File: ‘/home/devops/base.sh’
+Type: regular file 
+Permissions: (0775/-rwxrwxr-x)
 ```
 #### Answer 3
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT3.JPG)
+![]()
 
 ---
 #### Task 4 
-Develop simple script which will be execute infinite while loop with reading input in variable (etc. var) (read command)<br/> 
-and outputting message Hello ${var}. The has been ended when we enter word stop.<br/>
+Write a Bash shell script program that will read a list of numbers from arguments and the output is the sum and the product of the numbers.<br/> 
 
 Expected output:<br/>
 ```bash
-[devops@localhost ~]$ ./04-infinite.sh
-Andrey
-Hello, Andrey
-Aliens
-Hello, Aliens
-stop
+[devops@localhost ~]$ bash 06-get-sum.sh 1 2 3 10 20 6
+Sum: 42
+Prod: 7200
 [devops@localhost ~]$
 ```
 #### Answer 4
@@ -70,63 +75,48 @@ stop
 
 ---
 #### Task 5  
-Let’s develop a simple console game! You’re given a script template (see below). Append script which will be:<br/>
-
-* At the beginning of the game script randomly sets Magic number<br/>
-* User is running script and trying to guess magic number: if entered number less than magic number, script outputs less; if entered number greater than magic number, script outputs greater; if user have guessed the magic number, script outputs You win!<br/>
+Write a Bash shell script program that will read a list of numbers from arguments and the output is the min and the max element of the numbers.<br/>
 
 Expected output:<br/>
 ```bash
-[devops@localhost ~]$ cat 03-magic-number.sh
-#!/bin/bash
-magicNumber=$(( $RANDOM % 100 ))
-## write your code here ##
-[devops@localhost ~]$ ./03-magic-number.sh
-10
-less
-20
-greater
-15
-You win!
+[devops@localhost ~]$ bash 06-get-min-max.sh 1 2 3 10 20 6
+Min: 1
+Max: 20
+[devops@localhost ~]$
 ``` 
 #### Answer 5
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT5.JPG)
+![]()
 
 ---
 #### Task 6  
-You’re given the file with varied paths. Depend on existing “/” at the end of each line create regular file (path without ‘/’) or directory (path with / at the end) with given path.<br/>
+Develop a script which will be check whether sleep 1000 ran in background. If sleep 1000 haven’t run in background – do it:<br/>
 
 Expected output:<br/>
 ```bash
-[devops@localhost ~]$ cat paths
-/tmp/file1
-/tmp/file2
-/tmp/dir1/
-/tmp/dir3/
-/tmp/dir3/file3
-[devops@localhost ~]$ cat paths | ./04-create-items.sh
-[devops@localhost ~]$ ls –l /tmp
-/tmp/dir1/
-/tmp/dir3/
-/tmp/file1
-/tmp/file2
-...
+[devops@localhost ~]$ ps -ef | grep "[s]leep 1000"
+[devops@localhost ~]$
+[devops@localhost ~]$ ./06-sleeper.sh
+[devops@localhost ~]$ ps -ef | grep "[s]leep 1000"
+devops   16958 26033  0 11:12 pts/0    00:00:00 sleep 1000
 ``` 
 #### Answer 6
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/Images/LOOPT6.JPG)
+![]()
 
 ---
 #### Task 7 
-Using for loop output list of files in current directory with its owner.<br/>
+Script should print its’ full path and its’ name.<br/>
 
 Expected output:<br/>
 ```bash
-[devops@localhost ~]$ ./04-get-files.sh
- Filename: file1, Owner: devops
- Filename: file2, Owner: devops
- ...
+[devops@localhost ~]$ ./script.sh
+/home/devops/script.sh
+script.sh
+[devops@localhost ~]$ cd /tmp
+[devops@localhost tmp/]$ /home/devops/script.sh
+/home/devops/script.sh
+script.sh
 ``` 
 #### Answer 7
 
