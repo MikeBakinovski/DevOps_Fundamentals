@@ -16,7 +16,7 @@ Expected output:<br/>
 
 #### Answer 1 (Second version)
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC1A.JPG)
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC1B.JPG)
 
 ---
 #### Task 2
