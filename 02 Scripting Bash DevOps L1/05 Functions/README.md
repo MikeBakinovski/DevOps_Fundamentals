@@ -10,9 +10,13 @@ Expected output:<br/>
 /root
 [devops@localhost ~]$
 ```
-#### Answer 1
+#### Answer 1 (First version)
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC1A.JPG)
+
+#### Answer 1 (Second version)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC1A.JPG)
 
 ---
 #### Task 2
