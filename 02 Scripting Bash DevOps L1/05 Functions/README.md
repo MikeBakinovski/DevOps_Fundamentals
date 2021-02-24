@@ -62,7 +62,7 @@ Permissions: (0775/-rwxrwxr-x)
 ```
 #### Answer 3
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC3A.JPG)
 
 ---
 #### Task 4 
