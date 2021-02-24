@@ -77,7 +77,7 @@ Prod: 7200
 ```
 #### Answer 4
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC4A.JPG)
 
 ---
 #### Task 5  
