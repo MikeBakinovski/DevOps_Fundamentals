@@ -92,7 +92,7 @@ Max: 20
 ``` 
 #### Answer 5
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC5A.JPG)
 
 ---
 #### Task 6  
