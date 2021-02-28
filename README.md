@@ -10,7 +10,7 @@
 #### [03 Conditions and Cases](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/03%20Conditions%20and%20Cases/README.md)</br>
 #### [04 Loops](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/04%20Loops/README.md)</br>
 #### [05 Functions](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/README.md)</br>
-#### [06 Final Homework]()</br>
+#### [06 Final Homework](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/06%20Final%20Homework/README.md)</br>
 
 ## Scripting: PowerShell Essentials
 #### [01 Powershell Console]()</br>
