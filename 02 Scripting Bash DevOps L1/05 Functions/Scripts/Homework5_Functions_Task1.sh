@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# eval echo ~$1
+
 getULS () {
     ULS=$(cat /etc/passwd | grep $1 | cut -d: -f7)
 }
