@@ -150,3 +150,41 @@ script.sh
    for archive - Name_Surname_Bash_Homework1_BashScripting.zip. (ex. Ivan_Ivanov_Bash_Homework1_BashScripting.zip)<br/>
 
 3. All home task artifacts should be attached to the appropriate chapter in learn.<br/>
+
+
+
+Final Homework #1 
+TASK
+Company ABC has uncontrolled process of employee’s accounts creation. Currently process means adding names, email and other personal data manually to the accounts.csv file without any rules.
+
+ Department head has decided to improve it based on the naming convention implementation. Good idea for newcomers, but what to do with current user’s list? You have been asked to help. Could you please develop automated way (bash script) and create new accounts_new.csv file based on current accounts.csv and below.
+
+1)  Need to update column name. 
+
+Name format:  first letter of name/surname uppercase and all other letters lowercase. Example: Susan Houston.
+2) Need to update column email with domain @abc. 
+
+Email format: first letter from name and full surname, lowercase. Example: shouston@abc.com.
+Emails with the same ID should contain numbers. Example: Name Sean Houston, email shouston1@abc.com etc.
+ATTACHMENTS:
+accounts.csv
+DEFINITION OF DONE
+Developed bash script which automatically creates accounts_new.csv and updates columns name and email based on the rules above.
+
+FINAL TASKS REQUIREMENTS
+You should use Bash for executing required tasks.
+Use clear formatting.
+No errors on execution.
+Use best practices during development.
+Your scripts should be readable.
+Use comments where is needed.
+Use console output and logging to show result of your work
+FINAL HOMEWORK RESULTS
+Create screenshots containing the following information:
+All screenshots should contain system datetime of your host OS.
+Output of the console with execution result of your code.
+Put all of your  *.sh files into zip archive following naming conventions:
+
+for scripts - Final_Homework1_BashScripting.sh (ex. Final_Homework1_BashScripting.sh)
+for archive - Name_Surname_Bash_Final_Homework1.zip. (ex. Ivan_Ivanov_Bash_Final_Homework1.zip)
+All home task artifacts should be attached to the appropriate chapter in learn.
