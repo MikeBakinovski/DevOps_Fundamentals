@@ -108,7 +108,7 @@ devops   16958 26033  0 11:12 pts/0    00:00:00 sleep 1000
 ``` 
 #### Answer 6
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC6A.JPG)
 
 ---
 #### Task 7 
