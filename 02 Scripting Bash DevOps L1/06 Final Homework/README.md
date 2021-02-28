@@ -1,4 +1,4 @@
-## 05 Functions
+## 06 Final Homework
 #### Task 1
 Write a  Bash shell script program that takes a login name as an argument and outputs the home directory of the user.<br/> 
 
