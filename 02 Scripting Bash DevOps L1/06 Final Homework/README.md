@@ -16,7 +16,7 @@ Expected output:<br/>
 
 #### Answer 1 (Second version)
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC1B.JPG)
+![]()
 
 ---
 #### Task 2
@@ -33,7 +33,7 @@ You may go but must be back before midnight.
 ```
 #### Answer 2
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC2A.JPG)
+![]()
 
 ---
 #### Task 3
@@ -62,7 +62,7 @@ Permissions: (0775/-rwxrwxr-x)
 ```
 #### Answer 3
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC3A.JPG)
+![]()
 
 ---
 #### Task 4 
@@ -77,7 +77,7 @@ Prod: 7200
 ```
 #### Answer 4
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC4A.JPG)
+![]()
 
 ---
 #### Task 5  
@@ -92,7 +92,7 @@ Max: 20
 ``` 
 #### Answer 5
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC5A.JPG)
+![]()
 
 ---
 #### Task 6  
@@ -108,7 +108,7 @@ devops   16958 26033  0 11:12 pts/0    00:00:00 sleep 1000
 ``` 
 #### Answer 6
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC6A.JPG)
+![]()
 
 ---
 #### Task 7 
@@ -126,7 +126,7 @@ script.sh
 ``` 
 #### Answer 7
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC7A.JPG)
+![]()
 
 ---
 ### HOME TASKS REQUIREMENTS
