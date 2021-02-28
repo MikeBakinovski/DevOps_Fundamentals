@@ -126,7 +126,7 @@ script.sh
 ``` 
 #### Answer 7
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/05%20Functions/Images/FUNC7A.JPG)
 
 ---
 ### HOME TASKS REQUIREMENTS
