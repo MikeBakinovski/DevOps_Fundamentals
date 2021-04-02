@@ -3,7 +3,7 @@
 Get all processes where name starts with C (capital C).<br/> 
 
 ```powershell
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+Get-Process | Where-Object{$_.Name.StartsWith('C')}
 ```
 #### Answer 1
 
