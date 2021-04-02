@@ -3,7 +3,7 @@
 Set PowerShell execution policy for local computer in Remote Sign only mode.<br/> 
 
 ```powershell
-Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope LocalMachine
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 ```
 #### Answer 1
 
