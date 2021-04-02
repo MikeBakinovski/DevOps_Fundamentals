@@ -7,7 +7,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 ```
 #### Answer 1
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/01%20Powershell%20Console/Images/CONS1.jpg)
 
 ---
 #### Task 2
@@ -18,7 +18,9 @@ Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope LocalMachine
 ```
 #### Answer 2
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/01%20Powershell%20Console/Images/CONS2A.jpg)
+
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/01%20Powershell%20Console/Images/CONS2B.jpg)
 
 ---
 ### HOME TASKS REQUIREMENTS
