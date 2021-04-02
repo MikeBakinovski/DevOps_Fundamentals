@@ -1,4 +1,4 @@
-## 01 Powershell Console
+## 01 02 PowerShell Commands
 #### Task 1
 Set PowerShell execution policy for local computer in Remote Sign only mode.<br/> 
 
@@ -7,7 +7,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 ```
 #### Answer 1
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/01%20Powershell%20Console/Images/CONS1.jpg)
+![]()
 
 ---
 #### Task 2
@@ -18,6 +18,5 @@ Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope LocalMachine
 ```
 #### Answer 2
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/01%20Powershell%20Console/Images/CONS2A.jpg)
+![]()
 
-![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/01%20Powershell%20Console/Images/CONS2B.jpg)
