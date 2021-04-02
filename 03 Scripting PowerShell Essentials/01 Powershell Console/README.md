@@ -13,7 +13,7 @@ Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope LocalMachine
 #### Task 2
  Set PowerShell execution policy in Restricted only mode. Run module1-task2.ps1 script from cmd tool using bypass command option for PowerShell.<br/>
 
-```shell
+```powershell
 Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope LocalMachine
 ```
 #### Answer 2
