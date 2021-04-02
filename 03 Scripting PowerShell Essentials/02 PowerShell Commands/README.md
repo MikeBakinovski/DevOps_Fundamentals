@@ -7,7 +7,7 @@ Get-Process | Where-Object{$_.Name.StartsWith('C')}
 ```
 #### Answer 1
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/02%20PowerShell%20Commands/Images/COMM1.jpg)
 
 ---
 #### Task 2
