@@ -1,6 +1,6 @@
-## 01 02 PowerShell Commands
+## 02 PowerShell Commands
 #### Task 1
-Set PowerShell execution policy for local computer in Remote Sign only mode.<br/> 
+Get all processes where name starts with C (capital C).<br/> 
 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
@@ -11,7 +11,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 
 ---
 #### Task 2
- Set PowerShell execution policy in Restricted only mode. Run module1-task2.ps1 script from cmd tool using bypass command option for PowerShell.<br/>
+Find all cmdlets that working with windows services.<br/>
 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope LocalMachine
@@ -20,3 +20,24 @@ Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope LocalMachine
 
 ![]()
 
+---
+#### Task 3
+Get online help for Get-ChildItem cmdlet.<br/>
+
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope LocalMachine
+```
+#### Answer 3
+
+![]()
+
+---
+#### Task 4
+Update help for New-Item cmdlet.<br/>
+
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope LocalMachine
+```
+#### Answer 4
+
+![]()
