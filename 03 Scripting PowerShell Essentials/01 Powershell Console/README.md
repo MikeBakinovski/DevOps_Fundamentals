@@ -2,7 +2,7 @@
 #### Task 1
 Set PowerShell execution policy for local computer in Remote Sign only mode.<br/> 
 
-```shell
+```powershell
 Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope LocalMachine
 ```
 #### Answer 1
