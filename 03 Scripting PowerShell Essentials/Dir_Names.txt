@@ -1,0 +1,16 @@
+01 Powershell Console
+02 PowerShell Commands
+03 Variable Types and Declarations
+04 Arrays and Hash Tables
+05 Object Properties and Methods
+06 String Manipulations
+07 Operators and Regular Expressions
+08 Conditional and Looping Statements
+09 Pipelines
+10 Output and Format View
+11 Providers
+12 Manage Data Structured File Formats with PowerShell
+13 WMI and CIM
+14 Integrated Scripting Environment
+15 Fundamentals of PowerShell Functions
+16 Advanced Functions and Scripts
