@@ -13,19 +13,19 @@
 #### [06 Final Homework](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/02%20Scripting%20Bash%20DevOps%20L1/06%20Final%20Homework/README.md)</br>
 
 ## Scripting: PowerShell Essentials
-#### [01 Powershell Console]()</br>
-#### [02 PowerShell Commands]()</br>
-#### [03 Variable Types and Declarations]()</br>
-#### [04 Arrays and Hash Tables]()</br>
-#### [05 Object Properties and Methods]()</br>
-#### [06 String Manipulations]()</br>
-#### [07 Operators and Regular Expressions]()</br>
-#### [08 Conditional and Looping Statements]()</br>
-#### [09 Pipelines]()</br>
-#### [10 Output and Format View]()</br>
-#### [11 Providers]()</br>
-#### [12 Manage Data Structured File Formats with PowerShell]()</br>
-#### [13 WMI and CIM]()</br>
-#### [14 Integrated Scripting Environment]()</br>
-#### [15 Fundamentals of PowerShell Functions]()</br>
-#### [16 Advanced Functions and Scripts]()</br>
+#### [01 Powershell Console](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/01%20Powershell%20Console/README.md)</br>
+#### [02 PowerShell Commands](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/02%20PowerShell%20Commands/README.md)</br>
+#### [03 Variable Types and Declarations](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/03%20Variable%20Types%20and%20Declarations/README.md)</br>
+#### [04 Arrays and Hash Tables](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/04%20Arrays%20and%20Hash%20Tables/README.md)</br>
+#### [05 Object Properties and Methods](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/05%20Object%20Properties%20and%20Methods/README.md)</br>
+#### [06 String Manipulations](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/06%20String%20Manipulations/README.md)</br>
+#### [07 Operators and Regular Expressions](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/07%20Operators%20and%20Regular%20Expressions/README.md)</br>
+#### [08 Conditional and Looping Statements](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/08%20Conditional%20and%20Looping%20Statements/README.md)</br>
+#### [09 Pipelines](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/09%20Pipelines/README.md)</br>
+#### [10 Output and Format View](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/10%20Output%20and%20Format%20View/README.md)</br>
+#### [11 Providers](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/11%20Providers/README.md)</br>
+#### [12 Manage Data Structured File Formats with PowerShell](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/12%20Manage%20Data%20Structured%20File%20Formats%20with%20PowerShell/README.md)</br>
+#### [13 WMI and CIM](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/13%20WMI%20and%20CIM/README.md)</br>
+#### [14 Integrated Scripting Environment](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/14%20Integrated%20Scripting%20Environment/README.md)</br>
+#### [15 Fundamentals of PowerShell Functions](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/15%20Fundamentals%20of%20PowerShell%20Functions/README.md)</br>
+#### [16 Advanced Functions and Scripts](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/16%20Advanced%20Functions%20and%20Scripts/README.md)</br>
