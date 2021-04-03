@@ -6,11 +6,16 @@ Write a PowerShell class to implement pow(x, n) that is returns the base to the 
 
 ```powershell
 $MyCustomObject.Pow(2, 3)
+
 # Returnn
 8
+```
 
 # Example 2
+
+```powershell
 $MyCustomObject.Pow(7, 2)
+
 # Returns
 49
 ```
