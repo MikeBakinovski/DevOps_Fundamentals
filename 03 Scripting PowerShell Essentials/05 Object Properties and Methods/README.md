@@ -11,7 +11,7 @@ $MyCustomObject.Pow(2, 3)
 8
 ```
 
-# Example 2
+#### Example 2
 
 ```powershell
 $MyCustomObject.Pow(7, 2)
