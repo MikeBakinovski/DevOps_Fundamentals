@@ -10,7 +10,7 @@ $string
 $string.GetType()
 ```
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/03%20Variable%20Types%20and%20Declarations/Images/VTD1.jpg)
 
 ---
 #### Task 2
@@ -23,7 +23,7 @@ $HOME
 $HOME.GetType()
 ```
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/03%20Variable%20Types%20and%20Declarations/Images/VTD2.jpg)
 
 ---
 #### Task 3
@@ -36,7 +36,7 @@ gci -af -Path $home -Recurse | Select-Object -First 3 |
 %{Write-Host File path: $_.FullName; Write-Host File type : $_.GetType().Name; Write-Host}
 ```
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/03%20Variable%20Types%20and%20Declarations/Images/VTD3.jpg)
 
 ---
 #### Task 4
@@ -49,4 +49,4 @@ gci -ad -Path $home -Recurse | Select-Object -First 3 |
 %{Write-Host File path: $_.FullName; Write-Host File type : $_.GetType().Name; Write-Host}
 ```
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/03%20Variable%20Types%20and%20Declarations/Images/VTD4.jpg)
