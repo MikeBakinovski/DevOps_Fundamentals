@@ -8,7 +8,7 @@ Create two-dimensional strong defined string array.<br/>
 [string[][]]$array = @((1,2),('a','b'))
 ```
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/04%20Arrays%20and%20Hash%20Tables/Images/ARR1.jpg)
 
 ---
 #### Task 2
@@ -25,7 +25,7 @@ $array += @{key1='5'; key2=6; key3='c'}
 $array[2].key2
 ```
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/04%20Arrays%20and%20Hash%20Tables/Images/ARR2.jpg)
 
 ---
 #### Task 3
@@ -43,7 +43,7 @@ $person.Address.Street = 'Sky'
 $person.Address.City = 'Minsk'
 ```
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/04%20Arrays%20and%20Hash%20Tables/Images/ARR3.jpg)
 
 ---
 #### Task 4
@@ -81,4 +81,4 @@ foreach ($Item in ($hashTable.GetEnumerator() | Sort-Object -Property value)) {
 $OrderedHashTable
 ```
 
-![]()
+![](https://github.com/MikeBakinovski/DevOps_Fundamentals/blob/main/03%20Scripting%20PowerShell%20Essentials/04%20Arrays%20and%20Hash%20Tables/Images/ARR4.jpg)
