@@ -1,0 +1,3 @@
+﻿clear
+$HOME
+$HOME.GetType() 
