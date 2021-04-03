@@ -48,7 +48,7 @@ $person.Address.City = 'Minsk'
 ---
 #### Task 4
 Transform hash-table into ordered hash-table sorted by value.<br/>
-# Example
+#### Example
 ```powershell
 
 $hashTable = @{a = 12; g = 4; h = 1; t = 7; d = 8}
@@ -64,7 +64,21 @@ a                              12
 #### Answer 4
 
 ```powershell
+clear
+$hashTable = @{
+a = 12; 
+g = 4; 
+h = 1; 
+t = 7; 
+d = 8
+}
 
+
+$OrderedHashTable = [ordered]@{}
+foreach ($Item in ($hashTable.GetEnumerator() | Sort-Object -Property value)) {
+    $OrderedHashTable[$Item.Key] = $Item.Value
+}
+$OrderedHashTable
 ```
 
 ![]()
