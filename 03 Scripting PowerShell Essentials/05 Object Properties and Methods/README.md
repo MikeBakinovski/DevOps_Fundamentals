@@ -71,7 +71,13 @@ omortsoN
 #### Answer 3
 
 ```powershell
+$string='qwe'
 
+$arr=$string.ToCharArray()
+
+for($i=($arr.Length-1); $i -ge 0; $i--){
+$arr2+=($arr[$i])
+}
 ```
 
 ![]()
