@@ -7,6 +7,7 @@ Create a new sorted string using two strings with random characters in them. Str
 ```powershell
 $str1 = "xyaabbbccccdefww"
 $str2 = "xxxxyyyyabklmopq"
+
 # Return
 "abcdefklmopqwxy"
 ```
