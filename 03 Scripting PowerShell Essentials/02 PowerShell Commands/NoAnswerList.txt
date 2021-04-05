@@ -1,1 +1,2 @@
 02 PowerShell Commands. Task 4: Update help for New-Item cmdlet.
+03 Variable Types and Declarations Task 2: List user’s home directory file path and get datatype for it.
