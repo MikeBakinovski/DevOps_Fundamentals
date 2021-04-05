@@ -1,4 +1,4 @@
-## 06 String Manipulations
+### 06 String Manipulations
 #### Task 1
 Create a new sorted string using two strings with random characters in them. Strings contains only letters from a to z.<br/> 
 
